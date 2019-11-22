@@ -5,6 +5,16 @@ This talk is made up of slides and code samples.
 If you just want to download the slides,
 you can do that in the "Releases" section of the repository.
 
+You can also watch a video of this talk on `YouTube <https://www.youtube.com/watch?v=OtZhbtjaYBY>`_.
+
+
+Other talks in this series
+--------------------------
+
+* Optimizing the Django Admin (`slides <https://github.com/davidfischer/talk-optimizing-django-admin>`_, `video <https://youtu.be/F60CSzpe-As>`_)
+* Securing the Django Admin (not yet given)
+* Django Admin Add-Ons & Extensions (not yet given)
+
 
 Building the slides
 -------------------
